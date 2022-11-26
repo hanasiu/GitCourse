@@ -1,0 +1,21 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "g"
+  },
+  "keywords": [
+    "r"
+  ],
+  "author": "e",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
